@@ -24,6 +24,6 @@ public void testcasename(String uname,String upass){
 	user.sendKeys(uname);
 	pass.sendKeys(upass);
 	button.click();
-	System.out.println("it is passed");
+	
 }
 }
